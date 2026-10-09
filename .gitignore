@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+*.env
+*.evn
+broll输出/
+
+# Local creator drafts and promotional artwork
+.DS_Store
+docs/*口播*.md
+docs/X*.md
+assets/x-article-cover*.png
+docs/功能核查与扩展建议.md

@@ -1,0 +1,14 @@
+{
+  "workflow_id": "minimax_h3_z0902",
+  "clips": [
+    {
+      "id": "01",
+      "title": "参考人物走入庭院",
+      "duration": 8,
+      "resolution": "768p横(1376*768)",
+      "prompt": "保持参考人物的身份、面孔、发型和服装，在晴日上午的中式庭院完成一次自然转身，摄影机固定，人物动作克制，写实电影质感，无字幕、无标志、无水印。",
+      "ref_image_0": "https://example.com/character-reference.png",
+      "seed": 123456
+    }
+  ]
+}

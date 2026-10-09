@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jinghong B-roll Skill"
+  short_description: "用 AutoDL 生成 MiniMax H3 视频或 IndexTTS2 语音"
+  default_prompt: "使用 $jinghong-broll 根据我的口播补齐缺少的 B-roll。"

@@ -1,0 +1,15 @@
+{
+  "workflow_id": "minimax_h3_b99_002",
+  "clips": [
+    {
+      "id": "01",
+      "title": "遮挡转场",
+      "duration": 6,
+      "resolution": "736p横",
+      "prompt": "前景物体横向掠过并完全遮住镜头，在全遮挡期间完成场景变化，随后物体移开，平滑显露目标场景；保持运动方向和镜头速度连续。",
+      "first_frame": "assets/01-A.png",
+      "last_frame": "assets/01-B.png",
+      "seed": 123456
+    }
+  ]
+}
